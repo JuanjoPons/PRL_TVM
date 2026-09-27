@@ -1,0 +1,6 @@
+{
+  "name": "PRL Embarcacions Hub - Simulador i Jocs PRL",
+  "description": "Plataforma gamificada interactiva de Prevenció de Riscos Laborals en Manteniment d'Embarcacions de Recreo i Varaderos Nàutics amb escàner de Realitat Augmentada, simulador d'emergències i reptes d'EPIs.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
